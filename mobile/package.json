@@ -1,0 +1,15 @@
+{
+  "name": "nourishnet-mobile",
+  "version": "1.0.0",
+  "description": "Consumer-facing mobile application for Tiffin tracking and subscription management.",
+  "main": "App.jsx",
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "firebase": "^10.12.3",
+    "lucide-react": "^0.395.0"
+  },
+  "scripts": {
+    "start": "react-scripts start"
+  }
+}
